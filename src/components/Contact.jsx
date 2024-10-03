@@ -56,7 +56,7 @@ const Contact = () => {
         <div className="banner">
           <div className="item">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57929.23355645912!2d67.01519255!3d24.8441321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e70a31f45a9%3A0x25e252450977ec12!2sSaddar%20Town%2C%20Karachi%2C%20Sindh!5e0!3m2!1sen!2s!4v1709099958323!5m2!1sen!2s"
+              src="https://www.google.com/maps/dir//Chennai,+Tamil+Nadu/@13.0479859,79.8793347,10z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a5265ea4f7d3361:0x6e61a70b6863d433!2m2!1d80.2704622!2d13.0843007?entry=ttu&g_ep=EgoyMDI0MDkzMC4wIKXMDSoASAFQAw%3D%3D"
               style={{ border: 0, width: "100%", height: "450px" }}
               allowFullScreen=""
               loading="lazy"
